@@ -27,8 +27,7 @@ A high-fidelity fully-fledged eCommerce demo store built using the [Commerce.js]
      * [The checkout](#the-checkout)
      * [Customers](#customers)
      * [Payment gateways](#payment-gateways)
- * [Customization and Extendability](#customization-and-extendability)
-
+ * [Customization and Extendability](#customization-and-extendabilit
 
 ## Overview
 
