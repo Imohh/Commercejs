@@ -210,4 +210,4 @@ directions you can take eCommerce.
 - Integrating other backend tools like Content Management Systems, Customer Support, Fulfillment services, and more
 - Fetching real client reviews from review APIs
 - Adding search functionality
-- Leveraging [webhooks](https://commercejs.com/blog/webhooks-pizza-and-order-notifications-via-twilio) to automat
+- Leveraging [webhooks](https://commercejs.com/blog/webhooks-pizza-and-order-notifications-via-twilio) to autom
